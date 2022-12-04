@@ -2,16 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://robinwan999.github.io/post/</loc>
+    <lastmod>2022-12-05T00:05:27+08:00</lastmod>
+  </url><url>
+    <loc>https://robinwan999.github.io/</loc>
+    <lastmod>2022-12-05T00:05:27+08:00</lastmod>
+  </url><url>
+    <loc>https://robinwan999.github.io/post/static%E7%9A%84%E4%BD%9C%E7%94%A8/</loc>
+    <lastmod>2022-12-05T00:05:27+08:00</lastmod>
+  </url><url>
     <loc>https://robinwan999.github.io/categories/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://robinwan999.github.io/post/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robinwan999.github.io/post/</loc>
-    <lastmod>2022-11-22T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://robinwan999.github.io/</loc>
     <lastmod>2022-11-22T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://robinwan999.github.io/tags/</loc>

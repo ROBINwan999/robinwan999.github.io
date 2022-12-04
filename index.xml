@@ -5,7 +5,16 @@
     <link>https://robinwan999.github.io/</link>
     <description>Recent content on Robin的博客</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Nov 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://robinwan999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 05 Dec 2022 00:05:27 +0800</lastBuildDate><atom:link href="https://robinwan999.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Static的作用</title>
+      <link>https://robinwan999.github.io/post/static%E7%9A%84%E4%BD%9C%E7%94%A8/</link>
+      <pubDate>Mon, 05 Dec 2022 00:05:27 +0800</pubDate>
+      
+      <guid>https://robinwan999.github.io/post/static%E7%9A%84%E4%BD%9C%E7%94%A8/</guid>
+      <description>static是什么 在最开始C中引入了static关键字可以用于修饰变量和函数，后来由于C++引入了class的概念，现在static可以修饰</description>
+    </item>
+    
     <item>
       <title>Hugo搭建个人博客教程</title>
       <link>https://robinwan999.github.io/post/hugo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</link>
